@@ -1,7 +1,21 @@
+.searchbar {
+  width: 100%;
+}
 .searchbar form {
   display: flex;
+  flex-direction: column;
   align-items: center;
+  width: 100%;
 }
-.searchbar input {
-  margin-left: 10px;
+.searchbar label {
+  font-size: 2em;
+}
+
+@media screen and (min-width: 768px) {
+  .searchbar form {
+    flex-direction: row;
+    gap: 1rem;
+    width: 80%;
+    max-width: 40rem;
+  }
 }

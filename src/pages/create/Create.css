@@ -1,33 +1,44 @@
 .create {
-  color: #555;
-  max-width: 480px;
-  margin: 60px auto;
+  color: #777;
+  max-width: 48rem;
+  margin: 6rem auto;
+}
+.create label {
+  font-size: 2.2em;
+}
+.create form {
+  padding-bottom: 2rem;
 }
 .create label span {
   display: block;
-  margin: 30px 0 10px;
+  margin: 3rem 0 1rem;
 }
 .create p {
-  margin-top: 10px;
-  font-size: 0.8em;
+  margin-top: 1rem;
+  font-size: 1.5em;
 }
 .create button {
   display: block;
-  width: 100px;
-  font-size: 1em;
+  width: 50%;
+  font-size: 2em;
   color: #fff;
-  padding: 8px 20px;
+  padding: .8rem 2rem;
   border: 0;
-  border-radius: 4px;
+  border-radius: .4rem;
   background-color: #58249c;
   cursor: pointer;
   text-decoration: none;
-  margin: 20px auto;
+  margin: 2rem auto;
 }
+
+.create form label button {
+  font-size: 1em;
+}
+
 .ingredients {
   display: flex;
   align-items: center;
 }
 .ingredients button {
-  margin: 0 0 0 10px;
+  margin: 0 0 0 1rem;
 }

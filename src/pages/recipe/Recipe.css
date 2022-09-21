@@ -1,22 +1,27 @@
 .recipe {
-  max-width: 1200px;
-  margin: 40px auto;
+  max-width: 120rem;
+  margin: 4rem auto;
   text-align: center;
   background: #fff;
-  padding: 40px;
+  padding: 4rem;
   box-sizing: border-box;
+  font-size: 2.2rem;
+}
+.recipe p {
+  font-size: 1em;
 }
 .recipe ul {
   display: flex;
   padding: 0;
   justify-content: center;
-  margin-top: 0;
 }
 .recipe .btn {
   background-color: #777;
-  border-radius: 8px;
-  padding: 12px;
+  border-radius: .8rem;
+  padding: 1.2rem;
+  margin-top: 1.2rem;
   color: #fff;
+  font-size: 1em;
 }
 .recipe .btn:hover {
   background-color: #fff;
@@ -24,8 +29,9 @@
 }
 .recipe li {
   list-style-type: none;
-  margin-right: 10px;
+  margin-right: 1rem;
   color: #777;
+  font-size: .8em;
 }
 .recipe li::after {
   content: ',';
@@ -37,6 +43,8 @@
 .method {
   text-align: left;
   line-height: 1.5em;
+  font-size: .8em;
+  padding-top: 2rem;
 }
 
 /* dark mode */

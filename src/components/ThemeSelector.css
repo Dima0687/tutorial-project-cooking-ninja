@@ -2,22 +2,26 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  max-width: 1200px;
-  margin: 20px auto;
+  max-width: 120rem;
+  margin: 2rem auto;
+}
+.theme-buttons {
+  margin-right: 2rem;
 }
 .theme-buttons div {
   display: inline-block;
-  width: 20px;
-  height: 20px;
+  width: 2rem;
+  height: 2rem;
   cursor: pointer;
-  margin-left: 15px;
+  margin-left: 1.5rem;
   border-radius: 50%;
 }
 .mode-toggle {
+  margin-left: 2rem;
   margin-right: auto;
 }
 .mode-toggle img {
-  width: 24px;
-  height: 24px;
+  width: 2.4rem;
+  height: 2.4rem;
   cursor: pointer;
 }

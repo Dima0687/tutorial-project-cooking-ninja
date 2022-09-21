@@ -51,7 +51,7 @@ const Recipe = () => {
             {recipe.ingredients.map( (ingredient) => <li key={ingredient}>{ingredient}</li> )}
           </ul>
           <p className='method'>{recipe.method}</p>
-          <button onClick={handleClick}>Update me</button>
+          <button className='btn' onClick={handleClick}>Update me</button>
         </>
       }
     </div>
