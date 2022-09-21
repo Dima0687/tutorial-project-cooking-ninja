@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tutorial-project-cooking-ninja-react-and-firebase/static/css/main.a71dc549.chunk.css",
-    "main.js": "/tutorial-project-cooking-ninja-react-and-firebase/static/js/main.b5b4dea0.chunk.js",
-    "main.js.map": "/tutorial-project-cooking-ninja-react-and-firebase/static/js/main.b5b4dea0.chunk.js.map",
-    "runtime-main.js": "/tutorial-project-cooking-ninja-react-and-firebase/static/js/runtime-main.ae3918df.js",
-    "runtime-main.js.map": "/tutorial-project-cooking-ninja-react-and-firebase/static/js/runtime-main.ae3918df.js.map",
-    "static/js/2.3f5cccbe.chunk.js": "/tutorial-project-cooking-ninja-react-and-firebase/static/js/2.3f5cccbe.chunk.js",
-    "static/js/2.3f5cccbe.chunk.js.map": "/tutorial-project-cooking-ninja-react-and-firebase/static/js/2.3f5cccbe.chunk.js.map",
-    "index.html": "/tutorial-project-cooking-ninja-react-and-firebase/index.html",
-    "static/css/main.a71dc549.chunk.css.map": "/tutorial-project-cooking-ninja-react-and-firebase/static/css/main.a71dc549.chunk.css.map",
-    "static/js/2.3f5cccbe.chunk.js.LICENSE.txt": "/tutorial-project-cooking-ninja-react-and-firebase/static/js/2.3f5cccbe.chunk.js.LICENSE.txt",
-    "static/media/mode-icon.651cf792.svg": "/tutorial-project-cooking-ninja-react-and-firebase/static/media/mode-icon.651cf792.svg",
-    "static/media/trashcan.1129c53a.svg": "/tutorial-project-cooking-ninja-react-and-firebase/static/media/trashcan.1129c53a.svg"
+    "main.css": "/tutorial-project-cooking-ninja-react/static/css/main.c7bcde73.chunk.css",
+    "main.js": "/tutorial-project-cooking-ninja-react/static/js/main.fa9d35f6.chunk.js",
+    "main.js.map": "/tutorial-project-cooking-ninja-react/static/js/main.fa9d35f6.chunk.js.map",
+    "runtime-main.js": "/tutorial-project-cooking-ninja-react/static/js/runtime-main.1bf04381.js",
+    "runtime-main.js.map": "/tutorial-project-cooking-ninja-react/static/js/runtime-main.1bf04381.js.map",
+    "static/js/2.842ff19a.chunk.js": "/tutorial-project-cooking-ninja-react/static/js/2.842ff19a.chunk.js",
+    "static/js/2.842ff19a.chunk.js.map": "/tutorial-project-cooking-ninja-react/static/js/2.842ff19a.chunk.js.map",
+    "index.html": "/tutorial-project-cooking-ninja-react/index.html",
+    "static/css/main.c7bcde73.chunk.css.map": "/tutorial-project-cooking-ninja-react/static/css/main.c7bcde73.chunk.css.map",
+    "static/js/2.842ff19a.chunk.js.LICENSE.txt": "/tutorial-project-cooking-ninja-react/static/js/2.842ff19a.chunk.js.LICENSE.txt",
+    "static/media/mode-icon.651cf792.svg": "/tutorial-project-cooking-ninja-react/static/media/mode-icon.651cf792.svg",
+    "static/media/trashcan.1129c53a.svg": "/tutorial-project-cooking-ninja-react/static/media/trashcan.1129c53a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae3918df.js",
-    "static/js/2.3f5cccbe.chunk.js",
-    "static/css/main.a71dc549.chunk.css",
-    "static/js/main.b5b4dea0.chunk.js"
+    "static/js/runtime-main.1bf04381.js",
+    "static/js/2.842ff19a.chunk.js",
+    "static/css/main.c7bcde73.chunk.css",
+    "static/js/main.fa9d35f6.chunk.js"
   ]
 }
